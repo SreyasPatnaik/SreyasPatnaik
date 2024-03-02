@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SreyasPatnaik
-- 👀 I’m interested in block chain devloping
-- 🌱 I’m currently learning all the coding languages
+- 👀 I’m interested in Web Devloping.
+- 🌱 I'm good at HTML, CSS, JS and currently i'm learning react js and node js ...
 - 📫 I'm a student in B-Tech 
 
 <!---
