@@ -1,7 +1,7 @@
 - 👋 Hi, I’m SreyasPatnaik
 - 👀 I’m interested in Web Devloping.
 - 🌱 I'm good at HTML, CSS, JS and currently i'm learning react js and node js ...
-- 📫 I'm a student in B-Tech 
+- 📫 I'm a student in B-Tech at Radhakrishna Instute of Technology and Engineering (RITE), Bhubnswar.
 
 <!---
 SreyasPatnaik/SreyasPatnaik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
